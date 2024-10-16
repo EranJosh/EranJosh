@@ -1,4 +1,35 @@
-## Hi there 👋
+## Hello, I am Eran Josh Reyes 
+
+
+
+<h2> Education:</h2>
+
+Elementary
+
+New Era University - General Santos City 
+
+Salutatorian
+
+
+
+
+Junior High School
+
+
+New Era University - General Santos City
+
+With High Honors
+
+Senior High School
+New Era University - General Santos City
+Valedictorian
+
+Bachelor's Degree 
+
+New Era University Main Campus
+
+
+
 
 <!--
 **EranJosh/EranJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
