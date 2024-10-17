@@ -21,12 +21,20 @@ New Era University - General Santos City
 With High Honors
 
 Senior High School
+
 New Era University - General Santos City
+
 Valedictorian
+
 
 Bachelor's Degree 
 
+BS Computer Science
+
 New Era University Main Campus
+
+2023 - Present
+
 
 
 
