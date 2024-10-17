@@ -1,33 +1,35 @@
 ## Hello, I am Eran Josh Reyes 
 
+I specialize in digital services
 
+<h2> Education</h2>
 
-<h2> Education:</h2>
-
-Elementary
+<h2>Elementary</h2>
 
 New Era University - General Santos City 
+
+
 
 Salutatorian
 
 
 
 
-Junior High School
+<h2>Junior High School</h2>
 
 
 New Era University - General Santos City
 
 With High Honors
 
-Senior High School
+<h2>Senior High School</h2>
 
 New Era University - General Santos City
 
 Valedictorian
 
 
-Bachelor's Degree 
+<h2>Bachelor's Degree</h2> 
 
 BS Computer Science
 
