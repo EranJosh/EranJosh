@@ -1,6 +1,6 @@
 ## Hello, I am Eran Josh Reyes 
 
-I specialize in digital services
+I am a 2nd Year BS Computer Science student from New Era University. Quite experienced in the field of digital services and programming
 
 <h2> Education</h2>
 
@@ -37,6 +37,10 @@ New Era University Main Campus
 
 2023 - Present
 
+
+<h2>Certifications<h/2>
+<h2>Skillsets</h2>
+Coding, Video Editing, Graphics, SEO, Writing, Content Creation
 
 
 
