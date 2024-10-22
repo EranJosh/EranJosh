@@ -1,8 +1,8 @@
-## Hello! I am Eran Josh Reyes 
+# Hello! I am Eran Josh Reyes 
 
 I am a 2nd Year BS Computer Science student from New Era University. Quite experienced in the field of digital services and programming
 
-<h2> Education 🎓</h2>
+# Education 🎓
 
 <h2>Elementary</h2>
 
@@ -10,7 +10,7 @@ New Era University - General Santos City
 
 
 
-Salutatorian
+_Salutatorian_
 
 
 
@@ -20,13 +20,13 @@ Salutatorian
 
 New Era University - General Santos City
 
-With High Honors
+_With High Honors_
 
 <h2>Senior High School</h2>
 
 New Era University - General Santos City
 
-Valedictorian
+_Valedictorian_
 
 
 <h2>Bachelor's Degree</h2> 
@@ -38,13 +38,15 @@ New Era University Main Campus
 2023 - Present
 
 
-<h2>Certifications 🏅<h/2>
-  
-SQL and Relational Databases 101
-  
-https://courses.cognitiveclass.ai/certificates/df5da1113e2f4547821e7cf21ee606fa
 
-<h2>Skillsets 🛠️</h2>
+# Certifications 🏅
+
+  
+[**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/df5da1113e2f4547821e7cf21ee606fa)
+  
+
+
+# Skillsets 🛠️
   
 Coding, Video Editing, Graphics, SEO, Writing, Content Creation
 
