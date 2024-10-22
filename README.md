@@ -39,6 +39,11 @@ New Era University Main Campus
 
 
 <h2>Certifications 🏅<h/2>
+  
+SQL and Relational Databases 101
+  
+https://courses.cognitiveclass.ai/certificates/df5da1113e2f4547821e7cf21ee606fa
+
 <h2>Skillsets 🛠️</h2>
   
 Coding, Video Editing, Graphics, SEO, Writing, Content Creation
