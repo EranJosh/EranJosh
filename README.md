@@ -2,7 +2,7 @@
 
 I am a 2nd Year BS Computer Science student from New Era University. Quite experienced in the field of digital services and programming
 
-# Education 🎓
+# Education 
 
 <h2>Elementary</h2>
 
@@ -39,7 +39,7 @@ I am a 2nd Year BS Computer Science student from New Era University. Quite exper
 
 
 
-# Certifications 🏅
+# Certifications 
 
   
 - [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/df5da1113e2f4547821e7cf21ee606fa)
@@ -52,7 +52,7 @@ I am a 2nd Year BS Computer Science student from New Era University. Quite exper
   
 
 
-# Skillsets 🛠️
+# Skillsets 🛠
   
 Coding, Video Editing, Graphics, SEO, Writing, Content Creation
 
