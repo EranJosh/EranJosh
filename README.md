@@ -6,11 +6,11 @@ I am a 2nd Year BS Computer Science student from New Era University. Quite exper
 
 <h2>Elementary</h2>
 
-New Era University - General Santos City 
+- New Era University - General Santos City 
 
 
 
-_Salutatorian_
+- _Salutatorian_
 
 
 
@@ -18,24 +18,24 @@ _Salutatorian_
 <h2>Junior High School</h2>
 
 
-New Era University - General Santos City
+- New Era University - General Santos City
 
-_With High Honors_
+- _With High Honors_
 
 <h2>Senior High School</h2>
 
-New Era University - General Santos City
+- New Era University - General Santos City
 
-_Valedictorian_
+- _Valedictorian_
 
 
 <h2>Bachelor's Degree</h2> 
 
-BS Computer Science
+- BS Computer Science
 
-New Era University Main Campus
+- New Era University Main Campus
 
-2023 - Present
+- 2023 - Present
 
 
 
