@@ -2,31 +2,8 @@
 
 I am a 2nd Year BS Computer Science student from New Era University. Experienced in the field of digital services and programming
 
-# Education 
+<h2>Education</h2>
 
-<h2>Elementary</h2>
-
-- New Era University - General Santos City 
-
-
-
-- _Salutatorian_
-
-
-
-
-<h2>Junior High School</h2>
-
-
-- New Era University - General Santos City
-
-- _With High Honors_
-
-<h2>Senior High School</h2>
-
-- New Era University - General Santos City
-
-- _Valedictorian_
 
 
 <h2>Bachelor's Degree</h2> 
@@ -52,7 +29,7 @@ I am a 2nd Year BS Computer Science student from New Era University. Experienced
   
 
 
-# Skillsets 🛠
+# Skillsets 
   
 Coding, Video Editing, Graphics, SEO, Writing, Content Creation
 
