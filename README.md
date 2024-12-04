@@ -21,11 +21,11 @@ I am a 2nd Year BS Computer Science student from New Era University. Experienced
   
 - [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/df5da1113e2f4547821e7cf21ee606fa)
 
-- [**Oracle Cloud Infrastructure 2024 Certified Foundations Associate**](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401672&trackId=OCI2024FNDCFA&key=89e40a83b3fb99a7fe849acaad361dedce554789)
+- [**Oracle Cloud Infrastructure 2024 Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F212261CD431F6CB50691DEF450AAAA31E30B64FDF7A3BE8ECE9BFEDE1697785)
 
-- [**Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate**](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401672&trackId=OCI2024DCFA&key=274f819879cbefa657eca1a563dabefb8ff8a005)
+- [**Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F212261CD431F6CB50691DEF450AAAA3CF8C480D94A99EE3F6D05D1BF6502F9D)
 
-- [**Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate**](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401672&trackId=OCI24AICFA&key=c4da96272b2c04d77709c350537ce97fe53f9dac)
+- [**Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=259BA1A5BC84C438D04C013514F785515DFB52A9DBFC661ACE0841BDB1DD23EA)
   
 
 
