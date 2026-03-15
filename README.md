@@ -1,6 +1,6 @@
 # Hello! I am Eran Josh Reyes 
 
-I am a 3rd Year BS Computer Science student from New Era University. Ecom and programming experienced.
+I am a 3rd Year BS Computer Science student from New Era University.
 <h1>Education</h1>
 
 
