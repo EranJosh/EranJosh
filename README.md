@@ -1,37 +1,59 @@
-<!-- BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BANNER — waving gradient header with intro text                -->
+<!-- TIP: You can replace this with a custom scenic banner image!   -->
+<!-- Create one at: https://leviarista.github.io/github-profile-header-generator/ -->
+<!-- Upload to your repo's /images folder, then use:                -->
+<!-- <img src="https://github.com/EranJosh/EranJosh/raw/main/images/banner.png" width="100%"/> -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f1a,100:141b2d&height=250&section=header&text=Hi,%20I'm%20Eran%20Josh&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=A%20CS%20Student%20in%20the%20making&descSize=20&descColor=a9b1d6&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,30:24283b,60:7aa2f7,100:bb9af7&height=250&section=header&text=Hi%20👋,%20I'm%20Eran%20Josh&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=A%20CS%20Student%20in%20the%20making&descSize=20&descColor=a9b1d6&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- VISITOR BADGE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- VISITOR & ACTIVITY BADGES                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EranJosh&color=7aa2f7&style=flat-square&label=Profile+Views)
+&nbsp;
+![Repos](https://badges.pufler.dev/repos/EranJosh?style=flat-square&color=bb9af7&label=Repos)
+&nbsp;
+![Commits](https://badges.pufler.dev/commits/monthly/EranJosh?style=flat-square&color=9ece6a&label=Monthly+Commits)
 
 </div>
 
 <br>
 
-<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME — with coding GIF on the right side                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### About Me
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm Eran Josh, a 3rd year Computer Science student at **New Era University**, Philippines. I work with Java, SQL, and Oracle Cloud Infrastructure. I build backend systems and tinker with cloud services.
+### &nbsp;About Me
 
-- Currently working on **Java-based systems & cloud projects**
-- Currently learning **Backend Development & Cloud Architecture**
-- Oracle Cloud certified across **Foundations, Data & AI**
-- Ask me about **Java, SQL, OCI**
+I'm a 3rd year Computer Science student at **New Era University** 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+
+- 🔭 &nbsp;Currently working on **Java-based systems & cloud projects**
+- 🌱 &nbsp;Currently learning **Backend Development & Cloud Architecture**
+- ☁️ &nbsp;Oracle Cloud certified across **Foundations, Data & AI**
+- 💬 &nbsp;Ask me about **Java, SQL, OCI**
+- 📍 &nbsp;Based in **Philippines**
+- ⚡ &nbsp;Fun fact: I debug with print statements and I'm not sorry
+
+<br clear="both">
 
 <br>
 
-<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK — colorful badges, flat-square style                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Technology Stack</h2>
+<h2 align="center">Technology Stack 🛠️</h2>
 
 <div align="center">
 
@@ -53,9 +75,11 @@ I'm Eran Josh, a 3rd year Computer Science student at **New Era University**, Ph
 
 <br>
 
-<!-- CERTIFICATIONS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CERTIFICATIONS                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Certifications</h2>
+<h2 align="center">Certifications 🏅</h2>
 
 <div align="center">
 
@@ -70,9 +94,12 @@ I'm Eran Josh, a 3rd year Computer Science student at **New Era University**, Ph
 
 <br>
 
-<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS — side by side (stats + top langs)                -->
+<!-- Using radical theme to match the vibrant inspiration           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">My Github Stats 📊</h2>
 
 <br>
 
@@ -94,7 +121,9 @@ I'm Eran Josh, a 3rd year Computer Science student at **New Era University**, Ph
 
 <br>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION ACTIVITY GRAPH                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -104,26 +133,52 @@ I'm Eran Josh, a 3rd year Computer Science student at **New Era University**, Ph
 
 <br>
 
-<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS — pinned repo cards                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Connect</h2>
+<h2 align="center">Featured Projects 📌</h2>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-EranJosh-black?style=flat-square&logo=github&link=https://github.com/EranJosh)](https://github.com/EranJosh)
-<!-- [![LinkedIn](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_URL)](YOUR_URL) -->
-<!-- [![Gmail](https://img.shields.io/badge/-youremail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:your@email.com) -->
+<a href="https://github.com/EranJosh/NEU-Library-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EranJosh&repo=NEU-Library-System&theme=radical" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/EranJosh/NEU-MOA-Monitor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EranJosh&repo=NEU-MOA-Monitor&theme=radical" />
+</a>
 
 </div>
 
 <br>
 
-<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT / SOCIAL — add your links as you get them              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Reach Me Out On 📬</h2>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-EranJosh-black?style=flat-square&logo=github&link=https://github.com/EranJosh)](https://github.com/EranJosh)
+<!-- Uncomment and fill in these as you add social links: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_URL)](YOUR_URL) -->
+<!-- [![Gmail](https://img.shields.io/badge/-youremail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:your@email.com) -->
+<!-- [![Twitter](https://img.shields.io/badge/-yourhandle-blue?style=flat-square&logo=twitter&logoColor=white&link=YOUR_URL)](YOUR_URL) -->
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER — waving gradient (reversed)                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141b2d,50:0a0f1a,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
 
 </div>
