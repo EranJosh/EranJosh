@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://64.media.tumblr.com/12b8ce7b8e9404b6b04160d7bd70c885/tumblr_inline_p7k205j9u81rgkwjk_500.gifv" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f1a,100:141b2d&height=250&section=header&text=Hi,%20I'm%20Eran%20Josh&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=A%20CS%20Student%20in%20the%20making&descSize=20&descColor=a9b1d6&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -124,6 +124,6 @@ I'm Eran Josh, a 3rd year Computer Science student at **New Era University**, Ph
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141b2d,50:0a0f1a,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
